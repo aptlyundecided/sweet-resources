@@ -1,5 +1,5 @@
 # Sweet Resources
-For learning anything that I find interesting. 
+For learning anything that I find useful, or interesting. 
 
 
 ### Primary Goal
